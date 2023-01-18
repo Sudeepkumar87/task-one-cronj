@@ -1,0 +1,101 @@
+.main-requirement{
+  font-size: 22px;
+  color: #000;
+  
+}
+.form-hard{
+  display:flex;
+  /* justify-content:space-evenly; */
+  align-items: center;
+
+}
+.form-flex{
+  display:flex;
+  justify-content: space-evenly;
+  gap:8px;
+}
+.form-hard{
+  display:flex;
+  justify-content: center;
+  align-self:center;
+  gap: 16rem;
+  margin-bottom: 2rem;
+ 
+}
+.form-soft{
+  display:flex;
+  justify-content: flex-start;
+  right: 13rem;
+}
+/* .checkbox1{
+  height:10px;
+  
+} */
+.footer-four{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  gap:10px;
+}
+.image-35{
+  height: 20px;
+  width: 20px;
+}
+.footer-nine{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 60px;
+  padding-bottom: 2rem;
+  
+}
+.enquiry{
+  color:#0F0D0D;
+  font-size: 22px;
+  right:3rem;
+  margin-bottom: 1rem;
+ 
+}
+.box-space{
+   width: 60rem;
+  height: 10rem; 
+  opacity:100%;
+ 
+}
+.par-one{
+  font-size: 20px;
+  padding-bottom: 20px;
+  /* display: flex; */
+  /* margin-bottom: 2; */
+}
+.ul-one{
+gap:30px;
+}
+/* .footer-nine{
+  gap:2rem;
+} */
+.footer-10{
+  display: flex;
+  justify-content:start;
+  align-items: center;
+}
+/* <!---      M---> */
+
+.form{
+  /* border:10px solid #000; */
+   box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px; 
+  
+
+}
+.exp-two{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+       
+ 
+   color:red;
+   border-radius: 8rem;
+   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
