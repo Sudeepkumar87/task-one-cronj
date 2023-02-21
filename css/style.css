@@ -1189,11 +1189,7 @@ margin:3rem;
     font-size: 30px;
     color:#fff;
   }
-  .internal-footer1{
-    /* text-align: center; */
-    /* align-items: center; */
-    /* margin: auto; */
-  }
+ 
   .cta-p2{
     font-size: 19px;
     color:#fff;
@@ -1466,12 +1462,7 @@ margin: 2rem 0rem;
   justify-content: center;
   align-items: center;
 }
-.footer-one{
-   
-}
-.social{
-  
-}
+
 .image35{
   width: 85px;
   height: 80px;
@@ -1500,11 +1491,6 @@ margin: 2rem 0rem;
 .pa-two{
   font-size: 20px;
 }
-/* .callform{
-  display: flex;
-  justify-content:space-between;
-  align-items: center;
-}  */
 
 .callback-one{
 
@@ -1522,9 +1508,7 @@ margin: 2rem 0rem;
   align-items: center;
   justify-content: space-between;
 }
-/* .form{
-  background: url(../image9/Path\ 5630.png) no-repeat center center/cover;
-} */
+
 .btn40{
 display: inline-block;
 font-size: 18px;
@@ -1548,10 +1532,7 @@ padding:13px 20px;
   justify-content: center;
   align-items: center;
 }
-.app-image{
-  /* width: 83px;
-  height: 47px; */
-}
+
 .main-gaints{
   display:grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -1948,9 +1929,216 @@ padding:13px 20px;
     }
  
 }
-@media(max-width:1024px){
-
+@media(max-width:320px){
+  .bar{
+    
+    width: 15px;
+    height: 3px;
+   }
+   .button-nav-p{
+    font-size: 12px;
+  }
+  .mainnav{
+   text-align: center;
+  }
+  .banner-p-one{
+    font-size: 31px;
+    margin: 7px;  
+  }
+  .banner-p-two{
+    font-size: 16px;
+   
 }
+ .header-contact-p{
+  font-size: 15px;
+  padding-right: 10px;
+}
+.logo-class{
+  width: 80%;
+}
+.deliver-p{
+  font-size: 24px;  
+}
+.deliver-p-one{
+  font-size: 14px;
+  
+}
+.application-one{
+  font-size: 20px;
+  font-weight: bold;
+  color:#FFFFFF;
+}
+.application-two{
+  font-size: 16px;
+  max-width: 894px;
+  margin: auto;
+  padding-bottom: 30px;
+}
+.aid-one{
+  display:none;
+}
+.ofdev-one-image{
+  display:none;
+}
+.aid-class{
+  font-size: 22px;
+  text-align: center;
+}
+.ofdev-one{
+  font-size: 24px;
+  text-align: center;
+  
+}
+.internal-fashioning{
+  margin: 7px;
+  padding: 2rem;
+}
+.comp-one-p{
+  font-size: 31px;
+  max-width: 490px;
+  padding-bottom: 20px;
+  margin: auto;
+  
+} 
+
+.comp-two-p{
+  font-size: 16px;
+}
+.custom-image{
+  display: none;
+}
+.prov-p{
+  font-size: 22px;
+  margin: 7px;
+}
+.div-19-image{
+  display: none;
+}
+.outer-talent{
+  padding: 1rem;
+}
+.gears-image{
+display: none;
+}
+.gears-p-one{
+  font-size: 24px;
+  margin: 8px;
+  }
+  .div-37{
+    padding:3rem;
+  }
+  .div-35{
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 20px;
+    
+  }
+  .div-35-p{
+    font-size: 14px;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  .image-process{
+    display: none;
+  }
+  .hire-one-p{
+    font-size: 22px;
+    text-align: center;
+    margin: 8px;
+  }
+  .inner-design{
+    padding: 1rem;
+    margin: 8px;
+    text-align: center;
+  }
+  .moment-image{
+    display: none;
+  }
+  .outsource-p{
+    font-size: 19px;
+  }
+  .outsource-p-one{
+    font-size: 15px;
+    padding-bottom: 20px;
+  }
+  .btn10{
+    font-size: 18px;
+    color: #242525;
+  }
+  .frame-image{
+   display: none;
+  }
+  .frame-pone{
+    font-size: 22px;
+    align-items: center;
+    text-align: center;
+    margin: 8px;
+    justify-content: center;
+    }
+    .mobile-3{
+      display: none;
+    }
+    .world-main{
+      margin: 8px;
+      padding: 1rem;
+    }
+    .main-offer{
+      padding-bottom: 20px;
+    }
+    .range-p{
+      padding-bottom: 20px;
+      margin: 8px;
+    }
+    .ux-design{
+      padding: 1rem;
+      margin: 8px;
+    }
+    .cost-process{
+      margin: 0rem;
+    }
+    .cost-p1{
+      font-size: 23px;
+      padding-bottom: 10px;
+    }
+    .cost-p2{
+      font-size: 16px;
+      padding-bottom: 10px;
+    }
+    .act-btn{
+      font-size: 20px;
+    }
+    .image12{
+      display: none;
+    }
+    .image33{
+      width:300px;
+      height: 187px;
+    }
+    .inner-jsl{
+      padding: 1rem;
+    }
+    .experts-two{
+      font-size:22px ;  
+    }
+    .experts-three{
+      font-size: 16px;
+    }
+    .image30{
+      height:2rem;
+      width:2rem
+    }
+    .hel-one{
+      display: none;
+    }
+    .hel-one-p{
+      text-align: center;
+      margin: 7px;
+    }
+    
+   
+  }
+  
+
 
 
     
